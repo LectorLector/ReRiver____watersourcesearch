@@ -420,6 +420,9 @@ export default function Home() {
               />
             </div>
           </div>
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-2">
+            中科實中姚得樂與河好如初合作開發
+          </p>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-teal-600 via-cyan-600 to-blue-600 mb-4 tracking-tight">
             你家的水，從哪裡來？
           </h1>
